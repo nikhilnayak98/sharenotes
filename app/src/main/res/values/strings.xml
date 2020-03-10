@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ShareNotes</string>
+    <string-array name="branchNames">
+        <item>Select Branch</item>
+        <item>Computer Science &amp; Engineering</item>
+        <item>Computer Science &amp; Information Technology</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electrical Engineering</item>
+    </string-array>
+
+    <string-array name="semesterNames">
+        <item>Select Semester</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+    </string-array>
+    <string name="title_activity_homepage">Home</string>
+</resources>
+
+
